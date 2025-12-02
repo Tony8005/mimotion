@@ -1,4 +1,1 @@
 
-        run: |
-          pip3 install requests pytz
-          python3 main.py
